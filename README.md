@@ -12,4 +12,4 @@
 ```
 
 ## application endpoint
-- http://localhost:8082/dy-sample-servlet-declarative-security.git/user
+- http://localhost:8082/sample-servlet-security-declarative/user
